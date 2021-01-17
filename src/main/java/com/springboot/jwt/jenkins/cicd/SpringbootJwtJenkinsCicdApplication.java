@@ -1,4 +1,4 @@
-package com.springbootjwtjenkinscicd.springbootjwtjenkinscicd;
+package com.springboot.jwt.jenkins.cicd;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
